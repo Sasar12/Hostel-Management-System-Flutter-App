@@ -1,0 +1,1 @@
+ C:\\Users\\ACER\\Documents\\Hostel-flutter-app\\.dart_tool\\flutter_build\\4cfd7d7325b12cbdeb21d90c68e1f155\\native_assets.json: 
